@@ -16,8 +16,12 @@
 
 Après avoir fait une étude de ce qui est proposé sur le marché on a choisit de partir sur l'hébergeur Infomaniak.
 
-Avantage Infomaniak:
+#### Avantage Infomaniak:
 - Grand nombre de CMS pris en charge
 - Grand espace de stockage de site
 - Certificat SLL intégrer
 - Traffic illimité
+
+### Sélection de/des outil(s) de création de site  
+  
+Étant donné que sur Infomaniak il y a un grand nombre de CMS qui sont pris en charge, nous avons décidé de ne pas nous restreindre sur l'outil de création de site et de faire au cas par cas selon ce que le client veut et ce qui match le plus avec son business.
