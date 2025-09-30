@@ -7,8 +7,8 @@
   Hébergeur de site web  
 
 ### Critère de sélection de l'hébergeur  
-  Rapport qualité-prix : Avoir de bonnes options pour un prix correct  
-  Simplicité de prise en main : il faut que les services de l'hébergeur (site, applications, etc..) soit facile de prise main au cas le client souhaite le     gérer personnellement  
-  Sécurité : Il faut que l'hébergeur propose des sérvices contre les cyber-attaques, avec un minimum de backup.   
-  Support : Il faut que l'hébergeur ait un support de efficace et disponible en français  
-  Évolutivité : En cas de forte affluence sur le site, il faut qu'il soit possible d'augmenter dynamiquement le nombre de personne qui peuvent se connecter    en une fois   
+  **Rapport qualité-prix** : Avoir de bonnes options pour un prix correct  
+  **Simplicité** de prise en main : il faut que les services de l'hébergeur (site, applications, etc..) soit facile de prise main au cas le client souhaite le gérer personnellement  
+  **Sécurité** : Il faut que l'hébergeur propose des sérvices contre les cyber-attaques, avec un minimum de backup.   
+  **Support** : Il faut que l'hébergeur ait un support de efficace et disponible en français  
+  **Évolutivité** : En cas de forte affluence sur le site, il faut qu'il soit possible d'augmenter dynamiquement le nombre de personne qui peuvent se connecter    en une fois   
